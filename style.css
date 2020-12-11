@@ -1,0 +1,12 @@
+img {
+    width: 100%;
+}
+
+section {
+    width: 50%;
+    margin: auto;
+}
+
+li {
+    list-style-type: none;
+}
